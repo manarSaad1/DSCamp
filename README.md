@@ -12,7 +12,7 @@ The used dataset is microscopic cells images (27,558 cell images), labelled to p
 # Usage:
 1- Uplode the dataset from [kaggle](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria).
 
-2- Uplode the [Malaria_Diagnosis_project.ipynb](https://github.com/manarSaad1/DSCamp/blob/main/Malaria_Diagnosis_project%20.ipynb)
+2- Uplode the [Malaria_Diagnosis_project.ipynb](https://github.com/manarSaad1/DSCamp/blob/main/Final_Malaria_Diagnosis_project.ipynb)
 
 3- Change the path of the dataset to your own path and be sure you have all the mentioned packages to run the code correctly.
 

@@ -8,7 +8,7 @@ The used dataset is microscopic cells images (27,558 cell images), labelled to p
 
 •	Models building and performance evaluation : tensorflow,keras, sklearn
 
-•	Visualization: matplotlib, seaborn, slide show
+•	Visualization: matplotlib, seaborn,mlxtend 
 # Usage:
 1- Uplode the dataset from [kaggle](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria).
 
